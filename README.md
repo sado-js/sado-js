@@ -1,5 +1,9 @@
 <h1 align="center">Hey, I'm Saad 👋</h1>
 <h3 align="center">aka the Coding Warrior ⚔️</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=1F51FF&center=true&vCenter=true&width=700&lines=$+whoami;Saad+Hamdi+(Coding+Warrior);$+echo+'Full+Stack+Developer+%26+Bug+Hunter';$+echo+'JavaScript+%7C+Laravel+%7C+MERN+Stack';$+echo+'Building+Clean+Code+Empires+%26+Conquering+Features'" alt="terminal-animation"/>
+</p>
+
 
 ---
 
