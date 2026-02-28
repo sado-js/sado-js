@@ -89,7 +89,7 @@ Each project I build isn’t just a deployment — it’s another victory in the
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hamdi-saad/)  
 - 🌐 [Portfolio](https://saad-hamdi.vercel.app/)  
-- 📧 **saadhamdi.dev@gmail.com**  
+- 📧 **sadowebdev@gmail.com**  
 
 > “I wage no war of nations, but of logic and precision.  
 > My code is my battlefield — persistence, my weapon.” ⚔️  
